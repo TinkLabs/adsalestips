@@ -1,0 +1,5 @@
+[06-Jul-2016 17:56:13 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home1/james/public_html/wp-content/plugins/woocommerce/i18n/states/BR.php on line 13
+[17-Jul-2016 01:20:39 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home1/james/public_html/wp-content/plugins/woocommerce/i18n/states/BR.php on line 13
+[29-Jul-2016 00:22:41 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home1/james/public_html/wp-content/plugins/woocommerce/i18n/states/BR.php on line 13
+[29-Jul-2016 00:22:42 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home1/james/public_html/wp-content/plugins/woocommerce/i18n/states/BR.php on line 13
+[29-Jul-2016 00:22:43 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home1/james/public_html/wp-content/plugins/woocommerce/i18n/states/BR.php on line 13

@@ -1,0 +1,16 @@
+[07-Jul-2016 15:21:59 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[26-Jul-2016 06:03:29 America/Chicago] PHP Fatal error:  Call to undefined function mfn_opts_get() in /home1/james/public_html/wp-content/themes/betheme/404.php on line 10
+[02-Aug-2016 23:50:36 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[03-Aug-2016 09:37:13 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[03-Aug-2016 17:50:48 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[03-Aug-2016 23:21:51 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[05-Aug-2016 14:33:28 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[05-Aug-2016 23:49:14 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[07-Aug-2016 10:29:26 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home1/james/public_html/wp-content/themes/betheme/header.php on line 15
+[07-Aug-2016 10:29:28 America/Chicago] PHP Fatal error:  Call to undefined function mfn_opts_get() in /home1/james/public_html/wp-content/themes/betheme/footer.php on line 11
+[10-Aug-2016 18:23:11 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/james/public_html/wp-content/themes/betheme/functions.php on line 11
+[18-Sep-2016 05:33:30 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/james/public_html/wp-content/themes/betheme/index.php on line 10
+[11-Oct-2016 14:08:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/james/public_html/wp-content/themes/betheme/index.php on line 10
+[14-Feb-2017 22:53:59 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/james/public_html/wp-content/themes/betheme/index.php on line 10
+[17-Mar-2017 09:24:36 America/Chicago] PHP Fatal error:  Call to undefined function mfn_opts_get() in /home1/james/public_html/wp-content/themes/betheme/404.php on line 10
+[23-Mar-2017 13:11:27 America/Chicago] PHP Fatal error:  Call to undefined function mfn_opts_get() in /home1/james/public_html/wp-content/themes/betheme/404.php on line 10

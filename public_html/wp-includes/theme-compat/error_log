@@ -1,0 +1,1 @@
+[04-Apr-2017 08:21:43 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/james/public_html/wp-includes/theme-compat/comments.php on line 10

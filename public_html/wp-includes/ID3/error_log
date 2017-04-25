@@ -1,0 +1,5 @@
+[04-Apr-2017 08:21:41 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home1/james/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[04-Apr-2017 08:22:20 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home1/james/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[04-Apr-2017 08:23:17 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home1/james/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[04-Apr-2017 08:24:05 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home1/james/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[04-Apr-2017 08:24:14 America/Chicago] PHP Fatal error:  Class 'getid3_lib' not found in /home1/james/public_html/wp-includes/ID3/module.audio.ogg.php on line 17

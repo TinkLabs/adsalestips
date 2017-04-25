@@ -1,0 +1,11 @@
+[18-Sep-2016 05:30:52 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[18-Sep-2016 05:30:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[18-Sep-2016 05:31:01 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[11-Oct-2016 14:04:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[11-Oct-2016 14:04:37 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[11-Oct-2016 14:04:38 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[11-Oct-2016 14:04:42 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[14-Feb-2017 22:52:03 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[14-Feb-2017 22:52:06 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[14-Feb-2017 22:52:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[14-Feb-2017 22:52:19 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/james/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
