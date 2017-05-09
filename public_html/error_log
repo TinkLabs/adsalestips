@@ -12,3 +12,4 @@
 [08-Aug-2016 17:28:18 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/php54/lib/php') in /home1/james/public_html/wp-settings.php on line 21
 [08-Nov-2016 01:23:31 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home1/james/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
 [30-Jan-2017 13:09:59 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home1/james/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[29-Apr-2017 22:11:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home1/james/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
